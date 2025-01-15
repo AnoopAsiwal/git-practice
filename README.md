@@ -24,3 +24,5 @@ mergeBranch1 Commit1
 New Changes from master remote 1
 
 =====================rebase==========================
+
+Rebase Changes 1
