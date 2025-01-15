@@ -6,3 +6,5 @@ Changes in master2 from local
 
 Changes in master3 from remote
 
+
+feature-merge-commit-01
