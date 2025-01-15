@@ -26,3 +26,5 @@ New Changes from master remote 1
 =====================rebase==========================
 
 Rebase Changes 1
+
+Rebase Changes 2
