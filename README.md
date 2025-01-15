@@ -22,3 +22,5 @@ feature-rebase-commit-02
 mergeBranch1 Commit1
 
 New Changes from master remote 1
+
+=====================rebase==========================
