@@ -1,3 +1,5 @@
 # git-practice
 
-chnges in mster1 from remote
+Changes in master1 from remote
+
+Changes in master2 from local
