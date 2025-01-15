@@ -11,3 +11,7 @@ feature-merge-commit-01
 
 Changes in master4 from remote
 
+
+
+---------
+feature-rebase-commit-01
