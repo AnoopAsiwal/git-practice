@@ -19,3 +19,4 @@ feature-rebase-commit-01
 feature-rebase-commit-02
 
 ===============================================
+mergeBranch1 Commit1
